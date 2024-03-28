@@ -21,13 +21,13 @@ Welcome to the Belly Button Biodiversity Dashboard! Explore the fascinating worl
 
 ## 📸 Sample Pictures
 
-![Bar Chart](C:/Users/Thomas/Desktop/Finished Projects/Project 14 Finished (need to finish)/resources/sample_bar_chart.png)
+![Bar Chart](C:/Users/Thomas/Desktop/Finished Projects/Project 14 Finished/resources/sample_bar_chart.png)
 *Sample picture of the Bar Chart displaying the top 10 OTUs*
 
-![Bubble Chart](C:/Users/Thomas/Desktop/Finished Projects/Project 14 Finished (need to finish)/resources/sample_bubble_chart.png)
+![Bubble Chart](C:/Users/Thomas/Desktop/Finished Projects/Project 14 Finished/resources/sample_bubble_chart.png)
 *Sample picture of the Bubble Chart showing the distribution of OTUs*
 
-![Gauge Chart](C:/Users/Thomas/Desktop/Finished Projects/Project 14 Finished (need to finish)/resources/sample_gauge.png)
+![Gauge Chart](C:/Users/Thomas/Desktop/Finished Projects/Project 14 Finished/resources/sample_gauge.png)
 *Sample picture of the Gauge Chart indicating belly button washing frequency*
 
 ## 📚 Resources
