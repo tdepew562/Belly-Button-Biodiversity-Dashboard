@@ -43,7 +43,7 @@ This project is for educational purposes and cannot verify the accuracy of the i
 
 ## 🎉 Credits
 
-A special thanks to Berkely Data Analytics and UC Berkeley Extension for their invaluable contributions to this Martian odyssey.
+Special thanks to Berkeley Data Analytics and UC Berkeley Extension for their invaluable contributions to this exploration of microbial diversity in human navels.
 
 Acknowledgments:
 - Berkely Data Analytics
